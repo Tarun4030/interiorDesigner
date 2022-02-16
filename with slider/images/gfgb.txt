@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>HOME DECOR</title>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="CSS/style.css">
+    
+</head>
+<body>
+    <div class="header" >
+        <div class="row">
+        <div class="container1">
+            <div class="col-lg-3">
+                <ul style="list-style-type: none;">
+                <h1>HOME</h1>
+                <li class="headertext">
+                    <a>DECOR</a>
+                </li>
+                <li class="headertext">
+                    <a>WHAT WE DO</a>
+                </li>
+                <li class="headertext">
+                    <a>CONTACT US</a>
+                </li>    
+            </ul>
+                
+            </div>
+         
+                <div class="container">
+               
+                        <div class="col-lg-3">
+                            <ul style="list-style-type: none;">
+                            <li class="headerimage">
+                                <a img src="C:\Users\LENOVO\Desktop\HOME DECOR\homedecor\IMG-20210926-WA0058.jpg" alt="bed room" class="headerimage"></a>
+                            </li>
+                            </ul>
+                
+                        </div>
+
+        </div>
+    </div>
+    </div>
+    </div>
+</body>
+</html>
